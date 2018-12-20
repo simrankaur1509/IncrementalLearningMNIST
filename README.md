@@ -1,5 +1,5 @@
 
-# Incremental Learning in RNN
+# Incremental Learning in CNN
 
 ## 1. Full_Trained_CNN: 
 		(a) cnn_model.py - The file describing the CNN model
